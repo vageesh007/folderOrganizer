@@ -1,0 +1,9 @@
+.root {
+  -fx-font-family: "Segoe UI", sans-serif;
+}
+.button:hover {
+  -fx-opacity: 0.9;
+}
+.text-field:focused {
+  -fx-border-color: #5a8dee;
+}
