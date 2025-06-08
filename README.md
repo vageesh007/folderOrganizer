@@ -8,8 +8,12 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
 # 🖼️ Preview
-
-Coming soon: Screenshots or a demo gif here.
+https://github.com/user-attachments/assets/d10fe02a-2e1c-4d10-b792-acaf70cd062b
+#
+![Image](https://github.com/user-attachments/assets/1dc1b117-5228-4a2d-991a-92328a78cbcc)
+#
+![Image](https://github.com/user-attachments/assets/b6d03608-3ceb-4b26-aecc-faac686b2e14)
+#
 
 # 🚀 Features
 
